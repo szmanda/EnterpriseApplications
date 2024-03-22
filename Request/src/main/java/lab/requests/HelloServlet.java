@@ -1,4 +1,4 @@
-package lab.request;
+package lab.requests;
 
 import java.io.*;
 

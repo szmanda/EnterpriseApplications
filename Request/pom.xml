@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>lab</groupId>
-    <artifactId>Request</artifactId>
+    <artifactId>Requests</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Request</name>
+    <name>Requests</name>
     <packaging>war</packaging>
 
     <properties>
