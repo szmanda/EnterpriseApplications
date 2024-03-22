@@ -2,7 +2,7 @@ package lab.requests.backing;
 
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.faces.component.html.HtmlDataTable;
-import jakarta.inject.Inject;ataTable
+import jakarta.inject.Inject;
 import jakarta.inject.Named;
 import jakarta.transaction.Transactional;
 import jakarta.validation.constraints.Size;
@@ -14,7 +14,7 @@ import java.util.List;
 
 @RequestScoped @Named
 public class RequestsList {
-    public HtmlDataTable getRequestsD() {
+    public HtmlDataTable getRequestsDataTable() {
         return requestsDataTable;
     }
 
