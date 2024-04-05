@@ -9,5 +9,10 @@
     <version>1.0-SNAPSHOT</version>
 
     <packaging>pom</packaging>
+    <modules>
+        <module>EnterpriseApp-war</module>
+        <module>EnterpriseApp-ejb</module>
+        <module>EnterpriseApp-ear</module>
+    </modules>
 
 </project>
