@@ -1,8 +1,21 @@
+using WebApiAJAX;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 var app = builder.Build();
+
+app.UseStaticFiles();
+
+app.MapGet("/math",
+ (int x, int y) => new CalcResult()
+ {
+     Sum = x + y,
+     Difference = x - y,
+     Product = x * y,
+     Quotient = x / y
+ });
 
 // Configure the HTTP request pipeline.
 

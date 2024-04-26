@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\michal\\Documents\\Projects\\EnterpriseApplication\\WebApiAJAX\\WebApiAJAX\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApiAJAX.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApiAJAX.props",
+      "PackagePath": "build\\WebApiAJAX.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApiAJAX.props",
+      "PackagePath": "buildMultiTargeting\\WebApiAJAX.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApiAJAX.props",
+      "PackagePath": "buildTransitive\\WebApiAJAX.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

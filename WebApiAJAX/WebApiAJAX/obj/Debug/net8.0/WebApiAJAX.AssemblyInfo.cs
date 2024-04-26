@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiAJAX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e284f0bcb3fd11704c3027d59eee3813710c0c25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91e3233e05a0f72251c5e0636e015be6f8a307be")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiAJAX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiAJAX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
