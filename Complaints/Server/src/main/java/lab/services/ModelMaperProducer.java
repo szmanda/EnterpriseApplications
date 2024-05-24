@@ -1,7 +1,7 @@
 package lab.services;
 
 import jakarta.enterprise.context.ApplicationScoped;
-import jakarta.ws.rs.Produces;
+import jakarta.enterprise.inject.Produces;
 import org.modelmapper.ModelMapper;
 
 @ApplicationScoped
